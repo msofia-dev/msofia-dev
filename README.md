@@ -5,7 +5,7 @@ I'm an Analysis and Systems Development (ADS) student at SENAI, focused on softw
 
 I aim to improve my technical skills through hands-on projects, develop increasingly complete applications, and build a professional career in the technology field.
 
-## 🚀 Technologies and Tools
+##
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
