@@ -17,7 +17,7 @@ I aim to improve my technical skills through hands-on projects, develop increasi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
 </div>
 
-## 📊 GitHub Statistics
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msofia-dev&show_icons=true&theme=radical)
 
@@ -26,8 +26,6 @@ I aim to improve my technical skills through hands-on projects, develop increasi
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msofia-dev&layout=compact&theme=radical)
 
 ---
-
-## 📫 Contact
 
 - [LinkedIn](https://www.linkedin.com/in/YOUR-PROFILE/)
 - [Email](mailto:m4itedev@gmail.com)
