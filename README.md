@@ -12,8 +12,7 @@ Estudante de ADS no SENAI focado em desenvolvimento de software e banco de dados
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msofia-dev&show_icons=true&theme=tokyonight)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msofia-dev&show_icons=true&theme=radical)
 ---
 
 [LinkedIn](https://linkedin.com/in/seu-perfil) • [E-mail](m4itedev@email.com)
