@@ -1,5 +1,5 @@
 
-# Hi, I'm Maite! 👋
+# Hi, I'm Maite! 
 
 I'm an Analysis and Systems Development (ADS) student at SENAI, focused on software development and databases.
 
@@ -16,14 +16,6 @@ I aim to improve my technical skills through hands-on projects, develop increasi
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
 </div>
-
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msofia-dev&show_icons=true&theme=radical)
-
-## 💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msofia-dev&layout=compact&theme=radical)
 
 ---
 
